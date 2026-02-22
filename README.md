@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Unmask — Personalized Learning Platform
+
+Unmask is a personalized learning SaaS platform built to solve a common academic problem: students often spend excessive time searching for syllabus-specific study content online, and even then, the material may not match their curriculum or exam needs.
+
+At the same time, many skilled teachers and professors have available time outside regular academic hours but lack a structured way to connect with students who need focused guidance.
+
+Unmask bridges this gap by connecting students with subject-specific tutors who can help them revise and complete targeted curricula efficiently before exams. Students share their learning requirements, timeline, and goals, and tutors propose structured learning plans tailored to those needs.
+
+Goal: Faster, focused, and personalized exam preparation through direct student–tutor collaboration.
+
+Status: 🚧 In Development
+
 ## Getting Started
 
 First, run the development server:
